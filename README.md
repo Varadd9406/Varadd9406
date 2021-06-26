@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Direct3d and Vulkan**
 
-- 💬 Ask me about **CUDA and C++**
+- 💬 Ask me about **DirectX, CUDA and C++**
 
 - 📫 How to reach me **varadd@gmail.com**
 
