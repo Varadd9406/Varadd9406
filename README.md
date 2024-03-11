@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Varad Deouskar</h1>
-<h3 align="center">A passionate Rendering Developer</h3>
 
 - 🔭 I’m currently working on **Direct3d Rasterization engine**
 
