@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Varad Deouskar</h1>
 
-- 🔭 I’m currently working on **Direct3d Rasterization engine**
-
-- 🌱 I’m currently learning **Direct3d and Vulkan**
-
-- 💬 Ask me about **DirectX, CUDA and C++**
+- Graphics Engineer
 
 - 📫 How to reach me **varadd@gmail.com**
 
